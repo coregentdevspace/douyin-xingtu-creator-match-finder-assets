@@ -1,0 +1,4437 @@
+[
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7518307515558264873",
+    "douyinUid": "2897930538197534",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "唐大荟荟",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤",
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator",
+      "douyin/xingtu_v2/get_author_audience_distribution"
+    ],
+    "followerCount": 240787,
+    "categories": [
+      "测评",
+      "美妆测评",
+      "美妆",
+      "护肤保养"
+    ],
+    "contentThemes": [
+      "口腔护理",
+      "牙膏评测",
+      "家居用品选购",
+      "家居好物"
+    ],
+    "quotedPriceCny": 18000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 131713,
+    "expectedCpmCny": 136.6608,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 136.66,
+    "engagementRate": 0.0009,
+    "completionRate": 0.9145,
+    "audienceDistribution": {
+      "dimensions": [
+        {
+          "dimension": "性别分布",
+          "buckets": [
+            {
+              "label": "male",
+              "share": 0.1901
+            },
+            {
+              "label": "female",
+              "share": 0.8099
+            }
+          ]
+        },
+        {
+          "dimension": "八大人群分布",
+          "buckets": [
+            {
+              "label": "小镇青年",
+              "share": 0.2668
+            },
+            {
+              "label": "小镇中老年",
+              "share": 0.1256
+            },
+            {
+              "label": "Z世代",
+              "share": 0.0533
+            },
+            {
+              "label": "都市蓝领",
+              "share": 0.1565
+            },
+            {
+              "label": "新锐白领",
+              "share": 0.1085
+            },
+            {
+              "label": "都市银发",
+              "share": 0.1143
+            },
+            {
+              "label": "精致妈妈",
+              "share": 0.1328
+            },
+            {
+              "label": "资深中产",
+              "share": 0.0423
+            }
+          ]
+        },
+        {
+          "dimension": "省份分布",
+          "buckets": [
+            {
+              "label": "山东",
+              "share": 0.0656
+            },
+            {
+              "label": "上海",
+              "share": 0.0125
+            },
+            {
+              "label": "云南",
+              "share": 0.0466
+            },
+            {
+              "label": "广西",
+              "share": 0.0365
+            },
+            {
+              "label": "香港",
+              "share": 0.001
+            },
+            {
+              "label": "河南",
+              "share": 0.0808
+            },
+            {
+              "label": "新疆",
+              "share": 0.0462
+            },
+            {
+              "label": "吉林",
+              "share": 0.008
+            },
+            {
+              "label": "西藏",
+              "share": 0.0106
+            },
+            {
+              "label": "广东",
+              "share": 0.0951
+            },
+            {
+              "label": "黑龙江",
+              "share": 0.009
+            },
+            {
+              "label": "福建",
+              "share": 0.0314
+            },
+            {
+              "label": "浙江",
+              "share": 0.0513
+            },
+            {
+              "label": "辽宁",
+              "share": 0.0157
+            },
+            {
+              "label": "宁夏",
+              "share": 0.0023
+            },
+            {
+              "label": "湖北",
+              "share": 0.0407
+            },
+            {
+              "label": "北京",
+              "share": 0.0107
+            },
+            {
+              "label": "河北",
+              "share": 0.046
+            },
+            {
+              "label": "台湾",
+              "share": 0.0008
+            },
+            {
+              "label": "内蒙古",
+              "share": 0.0125
+            },
+            {
+              "label": "海南",
+              "share": 0.0103
+            },
+            {
+              "label": "天津",
+              "share": 0.0077
+            },
+            {
+              "label": "陕西",
+              "share": 0.0385
+            },
+            {
+              "label": "重庆",
+              "share": 0.0176
+            },
+            {
+              "label": "山西",
+              "share": 0.0274
+            },
+            {
+              "label": "安徽",
+              "share": 0.0478
+            },
+            {
+              "label": "澳门",
+              "share": 0.0001
+            },
+            {
+              "label": "青海",
+              "share": 0.0022
+            },
+            {
+              "label": "贵州",
+              "share": 0.0354
+            },
+            {
+              "label": "四川",
+              "share": 0.0498
+            },
+            {
+              "label": "江苏",
+              "share": 0.0638
+            },
+            {
+              "label": "江西",
+              "share": 0.0303
+            },
+            {
+              "label": "湖南",
+              "share": 0.0375
+            },
+            {
+              "label": "甘肃",
+              "share": 0.0081
+            }
+          ]
+        },
+        {
+          "dimension": "城市分布",
+          "buckets": [
+            {
+              "label": "喀什",
+              "share": 0.0847
+            },
+            {
+              "label": "广州",
+              "share": 0.112
+            },
+            {
+              "label": "西安",
+              "share": 0.1066
+            },
+            {
+              "label": "重庆",
+              "share": 0.135
+            },
+            {
+              "label": "北京",
+              "share": 0.0819
+            },
+            {
+              "label": "苏州",
+              "share": 0.086
+            },
+            {
+              "label": "郑州",
+              "share": 0.0939
+            },
+            {
+              "label": "上海",
+              "share": 0.0959
+            },
+            {
+              "label": "深圳",
+              "share": 0.0977
+            },
+            {
+              "label": "成都",
+              "share": 0.1063
+            }
+          ]
+        },
+        {
+          "dimension": "兴趣分布",
+          "buckets": [
+            {
+              "label": "随拍",
+              "share": 0.5648
+            },
+            {
+              "label": "亲子",
+              "share": 0.1429
+            },
+            {
+              "label": "剧情",
+              "share": 0.0921
+            },
+            {
+              "label": "二次元",
+              "share": 0.0564
+            },
+            {
+              "label": "美食",
+              "share": 0.0445
+            },
+            {
+              "label": "时尚",
+              "share": 0.0375
+            },
+            {
+              "label": "明星",
+              "share": 0.0374
+            },
+            {
+              "label": "社会时政",
+              "share": 0.0245
+            }
+          ]
+        },
+        {
+          "dimension": "年龄分布",
+          "buckets": [
+            {
+              "label": "18-23",
+              "share": 0.0715
+            },
+            {
+              "label": "41-50",
+              "share": 0.1042
+            },
+            {
+              "label": "50+",
+              "share": 0.1555
+            },
+            {
+              "label": "24-30",
+              "share": 0.2168
+            },
+            {
+              "label": "31-40",
+              "share": 0.4519
+            }
+          ]
+        },
+        {
+          "dimension": "设备品牌分布",
+          "buckets": [
+            {
+              "label": "vivo",
+              "share": 0.1739
+            },
+            {
+              "label": "华为",
+              "share": 0.1412
+            },
+            {
+              "label": "其他",
+              "share": 0.0798
+            },
+            {
+              "label": "iPhone",
+              "share": 0.2029
+            },
+            {
+              "label": "小米",
+              "share": 0.0511
+            },
+            {
+              "label": "荣耀",
+              "share": 0.1297
+            },
+            {
+              "label": "oppo",
+              "share": 0.1723
+            },
+            {
+              "label": "红米",
+              "share": 0.0491
+            }
+          ]
+        },
+        {
+          "dimension": "城市等级分布",
+          "buckets": [
+            {
+              "label": "二线",
+              "share": 0.1654
+            },
+            {
+              "label": "五线",
+              "share": 0.1823
+            },
+            {
+              "label": "一线",
+              "share": 0.1952
+            },
+            {
+              "label": "四线",
+              "share": 0.2054
+            },
+            {
+              "label": "三线",
+              "share": 0.2517
+            }
+          ]
+        }
+      ],
+      "linkType": 5,
+      "source": "douyin/xingtu_v2/get_author_audience_distribution",
+      "observedAt": "2026-11-23T13:06:01.602Z",
+      "note": "Aggregate audience distribution from Xingtu; shares computed from the returned values."
+    },
+    "fitScore": 84,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 30,
+      "audience": 25,
+      "economics": 8.3,
+      "performance": 10.3,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤",
+          "防晒测评"
+        ],
+        "keywordCoverage": 1,
+        "themeMatches": [
+          "护肤",
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "observed",
+        "source": "audience_enrichment",
+        "observedShare": 0.8099,
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 18000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 131713,
+        "engagementRate": 0.0009,
+        "completionRate": 0.9145,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_MATCH: 81% female audience vs 60% required (aggregate)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 18,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 131,713 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 1
+      },
+      {
+        "keyword": "护肤",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤, 防晒测评",
+    "categoriesCsv": "测评, 美妆测评, 美妆, 护肤保养",
+    "contentThemesCsv": "口腔护理, 牙膏评测, 家居用品选购, 家居好物",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_MATCH: 81% female audience vs 60% required (aggregate) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 18,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 131,713 from Xingtu; not actual campaign views",
+    "missingDataCsv": "",
+    "scoreTopic": 30,
+    "scoreAudience": 25,
+    "scoreEconomics": 8.3,
+    "scorePerformance": 10.3,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "6870170682722877453",
+    "douyinUid": "2809970863905555",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "哈佛一哥-11月22日19点双十一返场！",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator",
+      "douyin/xingtu_v2/get_author_audience_distribution"
+    ],
+    "followerCount": 935923,
+    "categories": [
+      "美妆",
+      "护肤保养"
+    ],
+    "contentThemes": [
+      "护肤推荐",
+      "牙齿护理"
+    ],
+    "quotedPriceCny": 1600,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 31949,
+    "expectedCpmCny": 50.0798,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 50.08,
+    "engagementRate": 0.0142,
+    "completionRate": 0.1444,
+    "audienceDistribution": {
+      "dimensions": [
+        {
+          "dimension": "八大人群分布",
+          "buckets": [
+            {
+              "label": "小镇青年",
+              "share": 0.1415
+            },
+            {
+              "label": "新锐白领",
+              "share": 0.2698
+            },
+            {
+              "label": "小镇中老年",
+              "share": 0.0489
+            },
+            {
+              "label": "Z世代",
+              "share": 0.0781
+            },
+            {
+              "label": "都市蓝领",
+              "share": 0.0733
+            },
+            {
+              "label": "资深中产",
+              "share": 0.1357
+            },
+            {
+              "label": "都市银发",
+              "share": 0.0519
+            },
+            {
+              "label": "精致妈妈",
+              "share": 0.2008
+            }
+          ]
+        },
+        {
+          "dimension": "性别分布",
+          "buckets": [
+            {
+              "label": "male",
+              "share": 0.1871
+            },
+            {
+              "label": "female",
+              "share": 0.8129
+            }
+          ]
+        },
+        {
+          "dimension": "城市分布",
+          "buckets": [
+            {
+              "label": "重庆",
+              "share": 0.0552
+            },
+            {
+              "label": "深圳",
+              "share": 0.115
+            },
+            {
+              "label": "北京",
+              "share": 0.1944
+            },
+            {
+              "label": "上海",
+              "share": 0.1908
+            },
+            {
+              "label": "广州",
+              "share": 0.1022
+            },
+            {
+              "label": "天津",
+              "share": 0.0555
+            },
+            {
+              "label": "武汉",
+              "share": 0.0586
+            },
+            {
+              "label": "苏州",
+              "share": 0.0638
+            },
+            {
+              "label": "成都",
+              "share": 0.0811
+            },
+            {
+              "label": "杭州",
+              "share": 0.0833
+            }
+          ]
+        },
+        {
+          "dimension": "兴趣分布",
+          "buckets": [
+            {
+              "label": "随拍",
+              "share": 0.433
+            },
+            {
+              "label": "亲子",
+              "share": 0.1183
+            },
+            {
+              "label": "美食",
+              "share": 0.1093
+            },
+            {
+              "label": "体育",
+              "share": 0.0853
+            },
+            {
+              "label": "时尚",
+              "share": 0.0761
+            },
+            {
+              "label": "明星",
+              "share": 0.0696
+            },
+            {
+              "label": "动物",
+              "share": 0.0634
+            },
+            {
+              "label": "社会时政",
+              "share": 0.045
+            }
+          ]
+        },
+        {
+          "dimension": "省份分布",
+          "buckets": [
+            {
+              "label": "青海",
+              "share": 0.0036
+            },
+            {
+              "label": "甘肃",
+              "share": 0.0093
+            },
+            {
+              "label": "河南",
+              "share": 0.0329
+            },
+            {
+              "label": "辽宁",
+              "share": 0.028
+            },
+            {
+              "label": "宁夏",
+              "share": 0.0035
+            },
+            {
+              "label": "陕西",
+              "share": 0.0236
+            },
+            {
+              "label": "内蒙古",
+              "share": 0.0145
+            },
+            {
+              "label": "山西",
+              "share": 0.0176
+            },
+            {
+              "label": "台湾",
+              "share": 0.0029
+            },
+            {
+              "label": "贵州",
+              "share": 0.0112
+            },
+            {
+              "label": "吉林",
+              "share": 0.0102
+            },
+            {
+              "label": "湖南",
+              "share": 0.0252
+            },
+            {
+              "label": "江西",
+              "share": 0.0204
+            },
+            {
+              "label": "西藏",
+              "share": 0.005
+            },
+            {
+              "label": "浙江",
+              "share": 0.0833
+            },
+            {
+              "label": "黑龙江",
+              "share": 0.0117
+            },
+            {
+              "label": "江苏",
+              "share": 0.0866
+            },
+            {
+              "label": "安徽",
+              "share": 0.031
+            },
+            {
+              "label": "新疆",
+              "share": 0.0262
+            },
+            {
+              "label": "澳门",
+              "share": 0.0014
+            },
+            {
+              "label": "广东",
+              "share": 0.1402
+            },
+            {
+              "label": "福建",
+              "share": 0.0369
+            },
+            {
+              "label": "重庆",
+              "share": 0.0174
+            },
+            {
+              "label": "海南",
+              "share": 0.0107
+            },
+            {
+              "label": "北京",
+              "share": 0.0614
+            },
+            {
+              "label": "云南",
+              "share": 0.0241
+            },
+            {
+              "label": "山东",
+              "share": 0.0485
+            },
+            {
+              "label": "四川",
+              "share": 0.0429
+            },
+            {
+              "label": "广西",
+              "share": 0.0171
+            },
+            {
+              "label": "香港",
+              "share": 0.0076
+            },
+            {
+              "label": "天津",
+              "share": 0.0175
+            },
+            {
+              "label": "上海",
+              "share": 0.0603
+            },
+            {
+              "label": "河北",
+              "share": 0.0342
+            },
+            {
+              "label": "湖北",
+              "share": 0.033
+            }
+          ]
+        },
+        {
+          "dimension": "年龄分布",
+          "buckets": [
+            {
+              "label": "50+",
+              "share": 0.0579
+            },
+            {
+              "label": "18-23",
+              "share": 0.1256
+            },
+            {
+              "label": "41-50",
+              "share": 0.1343
+            },
+            {
+              "label": "24-30",
+              "share": 0.2631
+            },
+            {
+              "label": "31-40",
+              "share": 0.4192
+            }
+          ]
+        },
+        {
+          "dimension": "城市等级分布",
+          "buckets": [
+            {
+              "label": "五线",
+              "share": 0.0958
+            },
+            {
+              "label": "四线",
+              "share": 0.106
+            },
+            {
+              "label": "三线",
+              "share": 0.1648
+            },
+            {
+              "label": "二线",
+              "share": 0.2089
+            },
+            {
+              "label": "一线",
+              "share": 0.4245
+            }
+          ]
+        },
+        {
+          "dimension": "设备品牌分布",
+          "buckets": [
+            {
+              "label": "iPhone",
+              "share": 0.6195
+            },
+            {
+              "label": "oppo",
+              "share": 0.0399
+            },
+            {
+              "label": "其他",
+              "share": 0.0362
+            },
+            {
+              "label": "小米",
+              "share": 0.0305
+            },
+            {
+              "label": "vivo",
+              "share": 0.0413
+            },
+            {
+              "label": "荣耀",
+              "share": 0.0359
+            },
+            {
+              "label": "红米",
+              "share": 0.0159
+            },
+            {
+              "label": "华为",
+              "share": 0.1808
+            }
+          ]
+        }
+      ],
+      "linkType": 5,
+      "source": "douyin/xingtu_v2/get_author_audience_distribution",
+      "observedAt": "2026-11-23T13:06:02.472Z",
+      "note": "Aggregate audience distribution from Xingtu; shares computed from the returned values."
+    },
+    "fitScore": 80,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 25,
+      "economics": 14.4,
+      "performance": 5.1,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "护肤"
+        ]
+      },
+      "audience": {
+        "status": "observed",
+        "source": "audience_enrichment",
+        "observedShare": 0.8129,
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 1600,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 31949,
+        "engagementRate": 0.0142,
+        "completionRate": 0.1444,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "AUDIENCE_MATCH: 81% female audience vs 60% required (aggregate)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 1,600 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 31,949 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "美妆, 护肤保养",
+    "contentThemesCsv": "护肤推荐, 牙齿护理",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | AUDIENCE_MATCH: 81% female audience vs 60% required (aggregate) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 1,600 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 31,949 from Xingtu; not actual campaign views",
+    "missingDataCsv": "",
+    "scoreTopic": 25.5,
+    "scoreAudience": 25,
+    "scoreEconomics": 14.4,
+    "scorePerformance": 5.1,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7255312502643228709",
+    "douyinUid": "1867421729172564",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "高老庄男神",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator",
+      "douyin/xingtu_v2/get_author_audience_distribution"
+    ],
+    "followerCount": 630317,
+    "categories": [
+      "美妆",
+      "护肤保养"
+    ],
+    "contentThemes": [
+      "搞笑剧情",
+      "搞笑挑战"
+    ],
+    "quotedPriceCny": 7300,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 206056,
+    "expectedCpmCny": 35.4273,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 35.43,
+    "engagementRate": 0.0045,
+    "completionRate": 0.2474,
+    "audienceDistribution": {
+      "dimensions": [
+        {
+          "dimension": "城市等级分布",
+          "buckets": [
+            {
+              "label": "二线",
+              "share": 0.1509
+            },
+            {
+              "label": "一线",
+              "share": 0.1517
+            },
+            {
+              "label": "五线",
+              "share": 0.2117
+            },
+            {
+              "label": "四线",
+              "share": 0.2156
+            },
+            {
+              "label": "三线",
+              "share": 0.2702
+            }
+          ]
+        },
+        {
+          "dimension": "年龄分布",
+          "buckets": [
+            {
+              "label": "18-23",
+              "share": 0.0818
+            },
+            {
+              "label": "41-50",
+              "share": 0.1216
+            },
+            {
+              "label": "31-40",
+              "share": 0.1937
+            },
+            {
+              "label": "24-30",
+              "share": 0.2988
+            },
+            {
+              "label": "50+",
+              "share": 0.3042
+            }
+          ]
+        },
+        {
+          "dimension": "设备品牌分布",
+          "buckets": [
+            {
+              "label": "oppo",
+              "share": 0.1723
+            },
+            {
+              "label": "红米",
+              "share": 0.0491
+            },
+            {
+              "label": "vivo",
+              "share": 0.1561
+            },
+            {
+              "label": "华为",
+              "share": 0.1563
+            },
+            {
+              "label": "荣耀",
+              "share": 0.1439
+            },
+            {
+              "label": "iPhone",
+              "share": 0.1755
+            },
+            {
+              "label": "其他",
+              "share": 0.0999
+            },
+            {
+              "label": "小米",
+              "share": 0.0469
+            }
+          ]
+        },
+        {
+          "dimension": "城市分布",
+          "buckets": [
+            {
+              "label": "遵义",
+              "share": 0.1012
+            },
+            {
+              "label": "东莞",
+              "share": 0.094
+            },
+            {
+              "label": "毕节",
+              "share": 0.1022
+            },
+            {
+              "label": "昆明",
+              "share": 0.0914
+            },
+            {
+              "label": "深圳",
+              "share": 0.0899
+            },
+            {
+              "label": "周口",
+              "share": 0.0848
+            },
+            {
+              "label": "成都",
+              "share": 0.0836
+            },
+            {
+              "label": "贵阳",
+              "share": 0.0822
+            },
+            {
+              "label": "重庆",
+              "share": 0.1404
+            },
+            {
+              "label": "广州",
+              "share": 0.1303
+            }
+          ]
+        },
+        {
+          "dimension": "兴趣分布",
+          "buckets": [
+            {
+              "label": "亲子",
+              "share": 0.4651
+            },
+            {
+              "label": "随拍",
+              "share": 0.3281
+            },
+            {
+              "label": "二次元",
+              "share": 0.0736
+            },
+            {
+              "label": "剧情",
+              "share": 0.0565
+            },
+            {
+              "label": "母婴",
+              "share": 0.0386
+            },
+            {
+              "label": "美食",
+              "share": 0.0199
+            },
+            {
+              "label": "游戏",
+              "share": 0.0094
+            },
+            {
+              "label": "颜值",
+              "share": 0.0088
+            }
+          ]
+        },
+        {
+          "dimension": "八大人群分布",
+          "buckets": [
+            {
+              "label": "Z世代",
+              "share": 0.0259
+            },
+            {
+              "label": "精致妈妈",
+              "share": 0.0367
+            },
+            {
+              "label": "新锐白领",
+              "share": 0.0424
+            },
+            {
+              "label": "资深中产",
+              "share": 0.0099
+            },
+            {
+              "label": "都市银发",
+              "share": 0.2148
+            },
+            {
+              "label": "小镇青年",
+              "share": 0.2483
+            },
+            {
+              "label": "都市蓝领",
+              "share": 0.2389
+            },
+            {
+              "label": "小镇中老年",
+              "share": 0.1831
+            }
+          ]
+        },
+        {
+          "dimension": "性别分布",
+          "buckets": [
+            {
+              "label": "male",
+              "share": 0.3533
+            },
+            {
+              "label": "female",
+              "share": 0.6467
+            }
+          ]
+        },
+        {
+          "dimension": "省份分布",
+          "buckets": [
+            {
+              "label": "贵州",
+              "share": 0.0717
+            },
+            {
+              "label": "江苏",
+              "share": 0.0444
+            },
+            {
+              "label": "内蒙古",
+              "share": 0.0078
+            },
+            {
+              "label": "台湾",
+              "share": 0
+            },
+            {
+              "label": "上海",
+              "share": 0.0073
+            },
+            {
+              "label": "天津",
+              "share": 0.0054
+            },
+            {
+              "label": "云南",
+              "share": 0.068
+            },
+            {
+              "label": "山东",
+              "share": 0.0545
+            },
+            {
+              "label": "湖北",
+              "share": 0.0282
+            },
+            {
+              "label": "西藏",
+              "share": 0.0128
+            },
+            {
+              "label": "江西",
+              "share": 0.0333
+            },
+            {
+              "label": "甘肃",
+              "share": 0.0093
+            },
+            {
+              "label": "海南",
+              "share": 0.0152
+            },
+            {
+              "label": "澳门",
+              "share": 0.0001
+            },
+            {
+              "label": "青海",
+              "share": 0.0023
+            },
+            {
+              "label": "河北",
+              "share": 0.0391
+            },
+            {
+              "label": "陕西",
+              "share": 0.0242
+            },
+            {
+              "label": "宁夏",
+              "share": 0.0033
+            },
+            {
+              "label": "香港",
+              "share": 0.0004
+            },
+            {
+              "label": "重庆",
+              "share": 0.0165
+            },
+            {
+              "label": "辽宁",
+              "share": 0.0083
+            },
+            {
+              "label": "湖南",
+              "share": 0.0415
+            },
+            {
+              "label": "四川",
+              "share": 0.0472
+            },
+            {
+              "label": "广西",
+              "share": 0.0522
+            },
+            {
+              "label": "广东",
+              "share": 0.1247
+            },
+            {
+              "label": "北京",
+              "share": 0.0083
+            },
+            {
+              "label": "浙江",
+              "share": 0.0481
+            },
+            {
+              "label": "黑龙江",
+              "share": 0.0049
+            },
+            {
+              "label": "山西",
+              "share": 0.0212
+            },
+            {
+              "label": "福建",
+              "share": 0.0342
+            },
+            {
+              "label": "安徽",
+              "share": 0.0433
+            },
+            {
+              "label": "河南",
+              "share": 0.0833
+            },
+            {
+              "label": "新疆",
+              "share": 0.0349
+            },
+            {
+              "label": "吉林",
+              "share": 0.0041
+            }
+          ]
+        }
+      ],
+      "linkType": 5,
+      "source": "douyin/xingtu_v2/get_author_audience_distribution",
+      "observedAt": "2026-11-23T13:06:03.368Z",
+      "note": "Aggregate audience distribution from Xingtu; shares computed from the returned values."
+    },
+    "fitScore": 80,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 25,
+      "economics": 12.3,
+      "performance": 6.9,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "护肤"
+        ]
+      },
+      "audience": {
+        "status": "observed",
+        "source": "audience_enrichment",
+        "observedShare": 0.6467,
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 7300,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 206056,
+        "engagementRate": 0.0045,
+        "completionRate": 0.2474,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "AUDIENCE_MATCH: 65% female audience vs 60% required (aggregate)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 7,300 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 206,056 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "美妆, 护肤保养",
+    "contentThemesCsv": "搞笑剧情, 搞笑挑战",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | AUDIENCE_MATCH: 65% female audience vs 60% required (aggregate) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 7,300 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 206,056 from Xingtu; not actual campaign views",
+    "missingDataCsv": "",
+    "scoreTopic": 25.5,
+    "scoreAudience": 25,
+    "scoreEconomics": 12.3,
+    "scorePerformance": 6.9,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7620265639885668390",
+    "douyinUid": "3391327526459416",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "1根忧郁的钢笔",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤",
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator",
+      "douyin/xingtu_v2/get_author_audience_distribution"
+    ],
+    "followerCount": 515924,
+    "categories": [
+      "随拍"
+    ],
+    "contentThemes": [
+      "唇妆教程",
+      "时尚妆容"
+    ],
+    "quotedPriceCny": 6000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 140191,
+    "expectedCpmCny": 42.7988,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 42.8,
+    "engagementRate": 0.0574,
+    "completionRate": 0.044,
+    "audienceDistribution": {
+      "dimensions": [
+        {
+          "dimension": "年龄分布",
+          "buckets": [
+            {
+              "label": "41-50",
+              "share": 0.059
+            },
+            {
+              "label": "50+",
+              "share": 0.1145
+            },
+            {
+              "label": "24-30",
+              "share": 0.1188
+            },
+            {
+              "label": "31-40",
+              "share": 0.1619
+            },
+            {
+              "label": "18-23",
+              "share": 0.5458
+            }
+          ]
+        },
+        {
+          "dimension": "城市等级分布",
+          "buckets": [
+            {
+              "label": "五线",
+              "share": 0.0966
+            },
+            {
+              "label": "四线",
+              "share": 0.1488
+            },
+            {
+              "label": "二线",
+              "share": 0.2092
+            },
+            {
+              "label": "三线",
+              "share": 0.2183
+            },
+            {
+              "label": "一线",
+              "share": 0.3272
+            }
+          ]
+        },
+        {
+          "dimension": "设备品牌分布",
+          "buckets": [
+            {
+              "label": "小米",
+              "share": 0.0498
+            },
+            {
+              "label": "oppo",
+              "share": 0.1039
+            },
+            {
+              "label": "vivo",
+              "share": 0.0897
+            },
+            {
+              "label": "iPhone",
+              "share": 0.5339
+            },
+            {
+              "label": "华为",
+              "share": 0.0529
+            },
+            {
+              "label": "红米",
+              "share": 0.0439
+            },
+            {
+              "label": "其他",
+              "share": 0.079
+            },
+            {
+              "label": "荣耀",
+              "share": 0.047
+            }
+          ]
+        },
+        {
+          "dimension": "城市分布",
+          "buckets": [
+            {
+              "label": "重庆",
+              "share": 0.1123
+            },
+            {
+              "label": "深圳",
+              "share": 0.0947
+            },
+            {
+              "label": "北京",
+              "share": 0.0943
+            },
+            {
+              "label": "武汉",
+              "share": 0.1025
+            },
+            {
+              "label": "成都",
+              "share": 0.1077
+            },
+            {
+              "label": "广州",
+              "share": 0.1239
+            },
+            {
+              "label": "上海",
+              "share": 0.1094
+            },
+            {
+              "label": "长沙",
+              "share": 0.0769
+            },
+            {
+              "label": "郑州",
+              "share": 0.1001
+            },
+            {
+              "label": "杭州",
+              "share": 0.0782
+            }
+          ]
+        },
+        {
+          "dimension": "兴趣分布",
+          "buckets": [
+            {
+              "label": "随拍",
+              "share": 0.4637
+            },
+            {
+              "label": "二次元",
+              "share": 0.2016
+            },
+            {
+              "label": "明星",
+              "share": 0.1072
+            },
+            {
+              "label": "颜值",
+              "share": 0.0764
+            },
+            {
+              "label": "动物",
+              "share": 0.0559
+            },
+            {
+              "label": "时尚",
+              "share": 0.0472
+            },
+            {
+              "label": "游戏",
+              "share": 0.029
+            },
+            {
+              "label": "舞蹈",
+              "share": 0.019
+            }
+          ]
+        },
+        {
+          "dimension": "八大人群分布",
+          "buckets": [
+            {
+              "label": "小镇青年",
+              "share": 0.2288
+            },
+            {
+              "label": "都市银发",
+              "share": 0.0118
+            },
+            {
+              "label": "都市蓝领",
+              "share": 0.062
+            },
+            {
+              "label": "精致妈妈",
+              "share": 0.0121
+            },
+            {
+              "label": "小镇中老年",
+              "share": 0.0145
+            },
+            {
+              "label": "新锐白领",
+              "share": 0.0394
+            },
+            {
+              "label": "资深中产",
+              "share": 0.0073
+            },
+            {
+              "label": "Z世代",
+              "share": 0.6242
+            }
+          ]
+        },
+        {
+          "dimension": "性别分布",
+          "buckets": [
+            {
+              "label": "male",
+              "share": 0.202
+            },
+            {
+              "label": "female",
+              "share": 0.798
+            }
+          ]
+        },
+        {
+          "dimension": "省份分布",
+          "buckets": [
+            {
+              "label": "天津",
+              "share": 0.0105
+            },
+            {
+              "label": "江西",
+              "share": 0.0388
+            },
+            {
+              "label": "贵州",
+              "share": 0.0221
+            },
+            {
+              "label": "甘肃",
+              "share": 0.01
+            },
+            {
+              "label": "辽宁",
+              "share": 0.0192
+            },
+            {
+              "label": "山东",
+              "share": 0.0536
+            },
+            {
+              "label": "安徽",
+              "share": 0.0469
+            },
+            {
+              "label": "陕西",
+              "share": 0.0251
+            },
+            {
+              "label": "广西",
+              "share": 0.0398
+            },
+            {
+              "label": "江苏",
+              "share": 0.0715
+            },
+            {
+              "label": "上海",
+              "share": 0.0244
+            },
+            {
+              "label": "内蒙古",
+              "share": 0.0075
+            },
+            {
+              "label": "吉林",
+              "share": 0.0116
+            },
+            {
+              "label": "新疆",
+              "share": 0.0114
+            },
+            {
+              "label": "河北",
+              "share": 0.041
+            },
+            {
+              "label": "青海",
+              "share": 0.0027
+            },
+            {
+              "label": "台湾",
+              "share": 0.0002
+            },
+            {
+              "label": "西藏",
+              "share": 0.0021
+            },
+            {
+              "label": "广东",
+              "share": 0.121
+            },
+            {
+              "label": "北京",
+              "share": 0.021
+            },
+            {
+              "label": "宁夏",
+              "share": 0.0028
+            },
+            {
+              "label": "黑龙江",
+              "share": 0.013
+            },
+            {
+              "label": "澳门",
+              "share": 0.0003
+            },
+            {
+              "label": "浙江",
+              "share": 0.0622
+            },
+            {
+              "label": "福建",
+              "share": 0.0356
+            },
+            {
+              "label": "香港",
+              "share": 0.0007
+            },
+            {
+              "label": "重庆",
+              "share": 0.025
+            },
+            {
+              "label": "湖北",
+              "share": 0.0462
+            },
+            {
+              "label": "四川",
+              "share": 0.0559
+            },
+            {
+              "label": "河南",
+              "share": 0.0723
+            },
+            {
+              "label": "云南",
+              "share": 0.0334
+            },
+            {
+              "label": "海南",
+              "share": 0.0107
+            },
+            {
+              "label": "湖南",
+              "share": 0.0456
+            },
+            {
+              "label": "山西",
+              "share": 0.0158
+            }
+          ]
+        }
+      ],
+      "linkType": 5,
+      "source": "douyin/xingtu_v2/get_author_audience_distribution",
+      "observedAt": "2026-11-23T13:06:04.279Z",
+      "note": "Aggregate audience distribution from Xingtu; shares computed from the returned values."
+    },
+    "fitScore": 80,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 24,
+      "audience": 25,
+      "economics": 12.8,
+      "performance": 7.9,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤",
+          "防晒测评"
+        ],
+        "keywordCoverage": 1,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "observed",
+        "source": "audience_enrichment",
+        "observedShare": 0.798,
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 6000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 140191,
+        "engagementRate": 0.0574,
+        "completionRate": 0.044,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"护肤\", \"防晒测评\"",
+      "AUDIENCE_MATCH: 80% female audience vs 60% required (aggregate)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 6,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 140,191 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      },
+      {
+        "keyword": "防晒测评",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤, 防晒测评",
+    "categoriesCsv": "随拍",
+    "contentThemesCsv": "唇妆教程, 时尚妆容",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"护肤\", \"防晒测评\" | AUDIENCE_MATCH: 80% female audience vs 60% required (aggregate) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 6,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 140,191 from Xingtu; not actual campaign views",
+    "missingDataCsv": "",
+    "scoreTopic": 24,
+    "scoreAudience": 25,
+    "scoreEconomics": 12.8,
+    "scorePerformance": 7.9,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "6870161788906766343",
+    "douyinUid": "65540483306",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "灰雪",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator",
+      "douyin/xingtu_v2/get_author_audience_distribution"
+    ],
+    "followerCount": 154362,
+    "categories": [
+      "时尚",
+      "穿搭",
+      "生活",
+      "健康养生",
+      "美妆",
+      "护肤保养"
+    ],
+    "contentThemes": [
+      "女性穿搭",
+      "复古穿搭",
+      "家庭育儿",
+      "亲子活动",
+      "家用电器",
+      "个人成长",
+      "家电推荐",
+      "家庭亲子生活",
+      "节能家电",
+      "健康养生"
+    ],
+    "quotedPriceCny": 10100,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 61599,
+    "expectedCpmCny": 163.9637,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 163.96,
+    "engagementRate": 0.0253,
+    "completionRate": 0.296,
+    "audienceDistribution": {
+      "dimensions": [
+        {
+          "dimension": "城市等级分布",
+          "buckets": [
+            {
+              "label": "五线",
+              "share": 0.1152
+            },
+            {
+              "label": "四线",
+              "share": 0.1388
+            },
+            {
+              "label": "二线",
+              "share": 0.2063
+            },
+            {
+              "label": "三线",
+              "share": 0.2124
+            },
+            {
+              "label": "一线",
+              "share": 0.3273
+            }
+          ]
+        },
+        {
+          "dimension": "设备品牌分布",
+          "buckets": [
+            {
+              "label": "oppo",
+              "share": 0.0729
+            },
+            {
+              "label": "vivo",
+              "share": 0.0742
+            },
+            {
+              "label": "红米",
+              "share": 0.027
+            },
+            {
+              "label": "其他",
+              "share": 0.0478
+            },
+            {
+              "label": "iPhone",
+              "share": 0.5192
+            },
+            {
+              "label": "华为",
+              "share": 0.1588
+            },
+            {
+              "label": "荣耀",
+              "share": 0.0606
+            },
+            {
+              "label": "小米",
+              "share": 0.0396
+            }
+          ]
+        },
+        {
+          "dimension": "年龄分布",
+          "buckets": [
+            {
+              "label": "50+",
+              "share": 0.0197
+            },
+            {
+              "label": "41-50",
+              "share": 0.0694
+            },
+            {
+              "label": "18-23",
+              "share": 0.1739
+            },
+            {
+              "label": "24-30",
+              "share": 0.3126
+            },
+            {
+              "label": "31-40",
+              "share": 0.4244
+            }
+          ]
+        },
+        {
+          "dimension": "性别分布",
+          "buckets": [
+            {
+              "label": "male",
+              "share": 0.2231
+            },
+            {
+              "label": "female",
+              "share": 0.7769
+            }
+          ]
+        },
+        {
+          "dimension": "城市分布",
+          "buckets": [
+            {
+              "label": "深圳",
+              "share": 0.1131
+            },
+            {
+              "label": "成都",
+              "share": 0.1006
+            },
+            {
+              "label": "重庆",
+              "share": 0.0947
+            },
+            {
+              "label": "苏州",
+              "share": 0.0824
+            },
+            {
+              "label": "杭州",
+              "share": 0.0799
+            },
+            {
+              "label": "武汉",
+              "share": 0.072
+            },
+            {
+              "label": "东莞",
+              "share": 0.0691
+            },
+            {
+              "label": "上海",
+              "share": 0.1451
+            },
+            {
+              "label": "北京",
+              "share": 0.127
+            },
+            {
+              "label": "广州",
+              "share": 0.1162
+            }
+          ]
+        },
+        {
+          "dimension": "八大人群分布",
+          "buckets": [
+            {
+              "label": "都市银发",
+              "share": 0.0109
+            },
+            {
+              "label": "都市蓝领",
+              "share": 0.1461
+            },
+            {
+              "label": "小镇中老年",
+              "share": 0.0312
+            },
+            {
+              "label": "Z世代",
+              "share": 0.1051
+            },
+            {
+              "label": "精致妈妈",
+              "share": 0.1946
+            },
+            {
+              "label": "新锐白领",
+              "share": 0.2103
+            },
+            {
+              "label": "小镇青年",
+              "share": 0.2181
+            },
+            {
+              "label": "资深中产",
+              "share": 0.0836
+            }
+          ]
+        },
+        {
+          "dimension": "省份分布",
+          "buckets": [
+            {
+              "label": "江西",
+              "share": 0.0257
+            },
+            {
+              "label": "辽宁",
+              "share": 0.024
+            },
+            {
+              "label": "山东",
+              "share": 0.0546
+            },
+            {
+              "label": "上海",
+              "share": 0.0325
+            },
+            {
+              "label": "河南",
+              "share": 0.051
+            },
+            {
+              "label": "云南",
+              "share": 0.0287
+            },
+            {
+              "label": "陕西",
+              "share": 0.0286
+            },
+            {
+              "label": "黑龙江",
+              "share": 0.013
+            },
+            {
+              "label": "山西",
+              "share": 0.0195
+            },
+            {
+              "label": "青海",
+              "share": 0.0028
+            },
+            {
+              "label": "河北",
+              "share": 0.04
+            },
+            {
+              "label": "福建",
+              "share": 0.0377
+            },
+            {
+              "label": "重庆",
+              "share": 0.0212
+            },
+            {
+              "label": "广西",
+              "share": 0.025
+            },
+            {
+              "label": "吉林",
+              "share": 0.0112
+            },
+            {
+              "label": "湖南",
+              "share": 0.0321
+            },
+            {
+              "label": "贵州",
+              "share": 0.0208
+            },
+            {
+              "label": "湖北",
+              "share": 0.0385
+            },
+            {
+              "label": "广东",
+              "share": 0.1323
+            },
+            {
+              "label": "澳门",
+              "share": 0.0004
+            },
+            {
+              "label": "安徽",
+              "share": 0.0404
+            },
+            {
+              "label": "内蒙古",
+              "share": 0.0118
+            },
+            {
+              "label": "浙江",
+              "share": 0.0755
+            },
+            {
+              "label": "西藏",
+              "share": 0.0043
+            },
+            {
+              "label": "宁夏",
+              "share": 0.0035
+            },
+            {
+              "label": "北京",
+              "share": 0.0285
+            },
+            {
+              "label": "海南",
+              "share": 0.0095
+            },
+            {
+              "label": "天津",
+              "share": 0.0128
+            },
+            {
+              "label": "四川",
+              "share": 0.0497
+            },
+            {
+              "label": "江苏",
+              "share": 0.085
+            },
+            {
+              "label": "甘肃",
+              "share": 0.0101
+            },
+            {
+              "label": "新疆",
+              "share": 0.0264
+            },
+            {
+              "label": "香港",
+              "share": 0.0021
+            },
+            {
+              "label": "台湾",
+              "share": 0.0008
+            }
+          ]
+        },
+        {
+          "dimension": "兴趣分布",
+          "buckets": [
+            {
+              "label": "随拍",
+              "share": 0.5388
+            },
+            {
+              "label": "亲子",
+              "share": 0.1372
+            },
+            {
+              "label": "美食",
+              "share": 0.0703
+            },
+            {
+              "label": "时尚",
+              "share": 0.0663
+            },
+            {
+              "label": "明星",
+              "share": 0.0587
+            },
+            {
+              "label": "体育",
+              "share": 0.0531
+            },
+            {
+              "label": "二次元",
+              "share": 0.038
+            },
+            {
+              "label": "动物",
+              "share": 0.0376
+            }
+          ]
+        }
+      ],
+      "linkType": 5,
+      "source": "douyin/xingtu_v2/get_author_audience_distribution",
+      "observedAt": "2026-11-23T13:06:05.716Z",
+      "note": "Aggregate audience distribution from Xingtu; shares computed from the returned values."
+    },
+    "fitScore": 80,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 25,
+      "economics": 11.2,
+      "performance": 8,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "护肤"
+        ]
+      },
+      "audience": {
+        "status": "observed",
+        "source": "audience_enrichment",
+        "observedShare": 0.7769,
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 10100,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 61599,
+        "engagementRate": 0.0253,
+        "completionRate": 0.296,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "AUDIENCE_MATCH: 78% female audience vs 60% required (aggregate)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 10,100 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 61,599 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "时尚, 穿搭, 生活, 健康养生, 美妆, 护肤保养",
+    "contentThemesCsv": "女性穿搭, 复古穿搭, 家庭育儿, 亲子活动, 家用电器, 个人成长, 家电推荐, 家庭亲子生活, 节能家电, 健康养生",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | AUDIENCE_MATCH: 78% female audience vs 60% required (aggregate) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 10,100 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 61,599 from Xingtu; not actual campaign views",
+    "missingDataCsv": "",
+    "scoreTopic": 25.5,
+    "scoreAudience": 25,
+    "scoreEconomics": 11.2,
+    "scorePerformance": 8,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "6963100279629676581",
+    "douyinUid": "62670435166",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "小马很勇敢",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤",
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 183210,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "底妆测评",
+      "定妆测评",
+      "清透妆容",
+      "防晒测评"
+    ],
+    "quotedPriceCny": 14400,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 137649,
+    "expectedCpmCny": 104.6139,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 104.61,
+    "engagementRate": 0.0116,
+    "completionRate": 0.0138,
+    "audienceDistribution": null,
+    "fitScore": 74,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 30,
+      "audience": 20,
+      "economics": 9.6,
+      "performance": 4.5,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤",
+          "防晒测评"
+        ],
+        "keywordCoverage": 1,
+        "themeMatches": [
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 14400,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 137649,
+        "engagementRate": 0.0116,
+        "completionRate": 0.0138,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 14,400 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 137,649 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      },
+      {
+        "keyword": "防晒测评",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤, 防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "底妆测评, 定妆测评, 清透妆容, 防晒测评",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 14,400 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 137,649 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 30,
+    "scoreAudience": 20,
+    "scoreEconomics": 9.6,
+    "scorePerformance": 4.5,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7637845594454622234",
+    "douyinUid": "849249276006479",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "赵大钳子",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 235430,
+    "categories": [
+      "美妆",
+      "美妆教程",
+      "护肤保养",
+      "美妆测评种草"
+    ],
+    "contentThemes": [
+      "底妆测评",
+      "防晒测评",
+      "定妆测评",
+      "妆前技巧",
+      "淡妆教程",
+      "睫毛测评"
+    ],
+    "quotedPriceCny": 7000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 66323,
+    "expectedCpmCny": 105.5441,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 105.54,
+    "engagementRate": 0.0286,
+    "completionRate": 0.019,
+    "audienceDistribution": null,
+    "fitScore": 73,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 12.4,
+      "performance": 5.2,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 7000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 66323,
+        "engagementRate": 0.0286,
+        "completionRate": 0.019,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 7,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 66,323 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "美妆, 美妆教程, 护肤保养, 美妆测评种草",
+    "contentThemesCsv": "底妆测评, 防晒测评, 定妆测评, 妆前技巧, 淡妆教程, 睫毛测评",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 7,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 66,323 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 12.4,
+    "scorePerformance": 5.2,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7011643724568461326",
+    "douyinUid": "4380912648208056",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "闹闹Noel",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 25547,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "护发测评",
+      "防晒测评",
+      "洗发水测评",
+      "底妆测评",
+      "黄黑皮妆"
+    ],
+    "quotedPriceCny": 4500,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 11367,
+    "expectedCpmCny": 395.8828,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 395.88,
+    "engagementRate": 0.0206,
+    "completionRate": 0.0565,
+    "audienceDistribution": null,
+    "fitScore": 73,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 13.3,
+      "performance": 3.8,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 4500,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 11367,
+        "engagementRate": 0.0206,
+        "completionRate": 0.0565,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 4,500 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 11,367 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "护发测评, 防晒测评, 洗发水测评, 底妆测评, 黄黑皮妆",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 4,500 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 11,367 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 13.3,
+    "scorePerformance": 3.8,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7135734530052194318",
+    "douyinUid": "474624931667279",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "鸭鸭揽金",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 686438,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "黄黑皮妆",
+      "口腔护理",
+      "底妆测评",
+      "睫毛测评",
+      "口红测评",
+      "儿童护牙好物",
+      "通勤妆容",
+      "修容教程"
+    ],
+    "quotedPriceCny": 10000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 422650,
+    "expectedCpmCny": 23.6602,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 23.66,
+    "engagementRate": 0,
+    "completionRate": 0.9849,
+    "audienceDistribution": null,
+    "fitScore": 72,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 19.5,
+      "audience": 20,
+      "economics": 11.3,
+      "performance": 11,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 10000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 422650,
+        "engagementRate": 0,
+        "completionRate": 0.9849,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"防晒测评\"",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 10,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 422,650 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "黄黑皮妆, 口腔护理, 底妆测评, 睫毛测评, 口红测评, 儿童护牙好物, 通勤妆容, 修容教程",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"防晒测评\" | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 10,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 422,650 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 19.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 11.3,
+    "scorePerformance": 11,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7325667692097044543",
+    "douyinUid": "93112710178",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "张楚子涵_Rita",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 247072,
+    "categories": [
+      "生活",
+      "生活记录"
+    ],
+    "contentThemes": [
+      "情侣趣事",
+      "护肤测评",
+      "零食测评",
+      "御姐穿搭",
+      "恋爱剧情",
+      "消费体验",
+      "搞笑挑战",
+      "情侣美妆",
+      "恋爱演绎",
+      "城市旅行"
+    ],
+    "quotedPriceCny": 20000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 450523,
+    "expectedCpmCny": 44.3929,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 44.39,
+    "engagementRate": 0.0284,
+    "completionRate": 0.2391,
+    "audienceDistribution": null,
+    "fitScore": 72,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 7.5,
+      "performance": 9,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "护肤"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 20000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 450523,
+        "engagementRate": 0.0284,
+        "completionRate": 0.2391,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 20,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 450,523 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "生活, 生活记录",
+    "contentThemesCsv": "情侣趣事, 护肤测评, 零食测评, 御姐穿搭, 恋爱剧情, 消费体验, 搞笑挑战, 情侣美妆, 恋爱演绎, 城市旅行",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 20,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 450,523 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 7.5,
+    "scorePerformance": 9,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "6870169707664637965",
+    "douyinUid": "1226656296214007",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "你大琪姐超敢讲",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 182846,
+    "categories": [
+      "测评",
+      "美妆测评",
+      "美妆",
+      "美妆测评种草"
+    ],
+    "contentThemes": [
+      "数码周边",
+      "箱包测评",
+      "耳机评测",
+      "苹果技术",
+      "办公神器"
+    ],
+    "quotedPriceCny": 6800,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 6353,
+    "expectedCpmCny": 1070.3605,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 1070.36,
+    "engagementRate": 0.024,
+    "completionRate": 0.0606,
+    "audienceDistribution": null,
+    "fitScore": 72,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 12.5,
+      "performance": 3.6,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 6800,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 6353,
+        "engagementRate": 0.024,
+        "completionRate": 0.0606,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 6,800 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 6,353 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "测评, 美妆测评, 美妆, 美妆测评种草",
+    "contentThemesCsv": "数码周边, 箱包测评, 耳机评测, 苹果技术, 办公神器",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 6,800 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 6,353 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 12.5,
+    "scorePerformance": 3.6,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7018438872757436429",
+    "douyinUid": "65716783777",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "木子小姐辣妈版",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤",
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 144182,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "亲子活动",
+      "搞笑剧情",
+      "有趣剧情创作",
+      "亲子沟通",
+      "恋爱演绎",
+      "生活喜剧情节",
+      "家庭幽默演绎",
+      "底妆测评",
+      "美食探店",
+      "启蒙儿歌"
+    ],
+    "quotedPriceCny": 10000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 79500,
+    "expectedCpmCny": 125.7862,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 125.79,
+    "engagementRate": 0.0193,
+    "completionRate": 0.2276,
+    "audienceDistribution": null,
+    "fitScore": 72,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 24,
+      "audience": 20,
+      "economics": 11.3,
+      "performance": 7,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤",
+          "防晒测评"
+        ],
+        "keywordCoverage": 1,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 10000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 79500,
+        "engagementRate": 0.0193,
+        "completionRate": 0.2276,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"护肤\", \"防晒测评\"",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 10,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 79,500 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      },
+      {
+        "keyword": "防晒测评",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤, 防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "亲子活动, 搞笑剧情, 有趣剧情创作, 亲子沟通, 恋爱演绎, 生活喜剧情节, 家庭幽默演绎, 底妆测评, 美食探店, 启蒙儿歌",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"护肤\", \"防晒测评\" | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 10,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 79,500 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 24,
+    "scoreAudience": 20,
+    "scoreEconomics": 11.3,
+    "scorePerformance": 7,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "6997111050902437920",
+    "douyinUid": "4300888217757151",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "小妮kiki",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 128566,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "底妆测评",
+      "修容教程",
+      "眼影测评",
+      "定妆测评",
+      "防晒测评",
+      "韩系妆容",
+      "通勤妆容",
+      "眼妆教程",
+      "眼线教程",
+      "洗发水测评"
+    ],
+    "quotedPriceCny": 8000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 24471,
+    "expectedCpmCny": 326.9176,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 326.92,
+    "engagementRate": 0.0287,
+    "completionRate": 0.0308,
+    "audienceDistribution": null,
+    "fitScore": 72,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 12,
+      "performance": 4.6,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 8000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 24471,
+        "engagementRate": 0.0287,
+        "completionRate": 0.0308,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 8,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 24,471 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "底妆测评, 修容教程, 眼影测评, 定妆测评, 防晒测评, 韩系妆容, 通勤妆容, 眼妆教程, 眼线教程, 洗发水测评",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 8,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 24,471 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 12,
+    "scorePerformance": 4.6,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7400222099362873356",
+    "douyinUid": "56387580332",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "娱乐小锅扒",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 2228121,
+    "categories": [
+      "生活",
+      "生活记录"
+    ],
+    "contentThemes": [
+      "搞笑剧情",
+      "亲子活动",
+      "萌宠乐趣",
+      "亲子沟通",
+      "意外结局",
+      "有趣剧情创作",
+      "动物趣闻",
+      "猫咪趣事",
+      "宠物猫日常",
+      "剧情反转"
+    ],
+    "quotedPriceCny": 15000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 64825,
+    "expectedCpmCny": 231.3922,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 231.39,
+    "engagementRate": 0.0994,
+    "completionRate": 0.2553,
+    "audienceDistribution": null,
+    "fitScore": 71,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 19.5,
+      "audience": 20,
+      "economics": 9.4,
+      "performance": 12.5,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 15000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 64825,
+        "engagementRate": 0.0994,
+        "completionRate": 0.2553,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"护肤\"",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 15,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 64,825 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "生活, 生活记录",
+    "contentThemesCsv": "搞笑剧情, 亲子活动, 萌宠乐趣, 亲子沟通, 意外结局, 有趣剧情创作, 动物趣闻, 猫咪趣事, 宠物猫日常, 剧情反转",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"护肤\" | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 15,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 64,825 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 19.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 9.4,
+    "scorePerformance": 12.5,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7347517904054648869",
+    "douyinUid": "1313233891239207",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "玉紫烧🧀️",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 146164,
+    "categories": [
+      "二次元",
+      "宅物手办"
+    ],
+    "contentThemes": [
+      "古风妆容",
+      "民族妆容",
+      "清透妆容",
+      "民族风穿搭",
+      "时尚妆容",
+      "贵气妆容",
+      "眼妆教程",
+      "甜美妆容",
+      "传统服饰",
+      "变装造型"
+    ],
+    "quotedPriceCny": 8500,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 169991,
+    "expectedCpmCny": 50.0026,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 50,
+    "engagementRate": 0.067,
+    "completionRate": 0.1403,
+    "audienceDistribution": null,
+    "fitScore": 71,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 19.5,
+      "audience": 20,
+      "economics": 11.8,
+      "performance": 9.7,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 8500,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 169991,
+        "engagementRate": 0.067,
+        "completionRate": 0.1403,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"防晒测评\"",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 8,500 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 169,991 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "二次元, 宅物手办",
+    "contentThemesCsv": "古风妆容, 民族妆容, 清透妆容, 民族风穿搭, 时尚妆容, 贵气妆容, 眼妆教程, 甜美妆容, 传统服饰, 变装造型",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"防晒测评\" | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 8,500 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 169,991 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 19.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 11.8,
+    "scorePerformance": 9.7,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7111673779851362311",
+    "douyinUid": "2023581542521261",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "一小只细细",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤",
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 117463,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "小个子穿搭",
+      "通勤穿搭",
+      "秋冬穿搭",
+      "服饰测评",
+      "珠宝配饰",
+      "特色配饰",
+      "秋季穿搭",
+      "淡妆教程",
+      "牛仔裤穿搭",
+      "护发技巧"
+    ],
+    "quotedPriceCny": 7600,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 34564,
+    "expectedCpmCny": 219.882,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 219.88,
+    "engagementRate": 0.0263,
+    "completionRate": 0.0396,
+    "audienceDistribution": null,
+    "fitScore": 71,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 24,
+      "audience": 20,
+      "economics": 12.2,
+      "performance": 4.8,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤",
+          "防晒测评"
+        ],
+        "keywordCoverage": 1,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 7600,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 34564,
+        "engagementRate": 0.0263,
+        "completionRate": 0.0396,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"护肤\", \"防晒测评\"",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 7,600 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 34,564 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 2
+      },
+      {
+        "keyword": "防晒测评",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤, 防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "小个子穿搭, 通勤穿搭, 秋冬穿搭, 服饰测评, 珠宝配饰, 特色配饰, 秋季穿搭, 淡妆教程, 牛仔裤穿搭, 护发技巧",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"护肤\", \"防晒测评\" | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 7,600 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 34,564 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 24,
+    "scoreAudience": 20,
+    "scoreEconomics": 12.2,
+    "scorePerformance": 4.8,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7308642850957344819",
+    "douyinUid": "59043788693",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "人间清醒Max",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 112539,
+    "categories": [
+      "生活",
+      "生活记录",
+      "美妆",
+      "妆容展示",
+      "护肤保养"
+    ],
+    "contentThemes": [
+      "家居用品选购",
+      "床上用品",
+      "洗发水测评",
+      "家居好物",
+      "个人成长",
+      "高颅顶造型",
+      "护发测评"
+    ],
+    "quotedPriceCny": 9500,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 11790,
+    "expectedCpmCny": 805.7676,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 805.77,
+    "engagementRate": 0.0287,
+    "completionRate": 0.041,
+    "audienceDistribution": null,
+    "fitScore": 71,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 11.4,
+      "performance": 4.2,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "护肤"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 9500,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 11790,
+        "engagementRate": 0.0287,
+        "completionRate": 0.041,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 9,500 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 11,790 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 2
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "生活, 生活记录, 美妆, 妆容展示, 护肤保养",
+    "contentThemesCsv": "家居用品选购, 床上用品, 洗发水测评, 家居好物, 个人成长, 高颅顶造型, 护发测评",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 9,500 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 11,790 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 11.4,
+    "scorePerformance": 4.2,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7290811810309996601",
+    "douyinUid": "1841001855714851",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "杀死玫瑰",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 493576,
+    "categories": [
+      "生活",
+      "生活记录"
+    ],
+    "contentThemes": [
+      "家庭生活记录",
+      "宠物猫日常",
+      "温柔风穿搭",
+      "温馨家居场景",
+      "韩系妆容",
+      "家居生活",
+      "宠物行为",
+      "唇妆教程",
+      "时尚妆容",
+      "清透妆容"
+    ],
+    "quotedPriceCny": 11000,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 119794,
+    "expectedCpmCny": 91.8243,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 91.82,
+    "engagementRate": 0.0897,
+    "completionRate": 0.0312,
+    "audienceDistribution": null,
+    "fitScore": 70,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 19.5,
+      "audience": 20,
+      "economics": 10.9,
+      "performance": 9.8,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": []
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 11000,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 119794,
+        "engagementRate": 0.0897,
+        "completionRate": 0.0312,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "SEARCH_MATCH: returned by Xingtu content search for \"护肤\"",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 11,000 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 119,794 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "生活, 生活记录",
+    "contentThemesCsv": "家庭生活记录, 宠物猫日常, 温柔风穿搭, 温馨家居场景, 韩系妆容, 家居生活, 宠物行为, 唇妆教程, 时尚妆容, 清透妆容",
+    "matchReasonsCsv": "SEARCH_MATCH: returned by Xingtu content search for \"护肤\" | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 11,000 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 119,794 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 19.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 10.9,
+    "scorePerformance": 9.8,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "6870169958962167816",
+    "douyinUid": "1613671037156475",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "Hoshi.",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "护肤"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 251107,
+    "categories": [
+      "美妆",
+      "护肤保养",
+      "美妆测评种草"
+    ],
+    "contentThemes": [],
+    "quotedPriceCny": 9800,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 32778,
+    "expectedCpmCny": 298.981,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 298.98,
+    "engagementRate": 0.0095,
+    "completionRate": 0.0319,
+    "audienceDistribution": null,
+    "fitScore": 70,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 11.3,
+      "performance": 3.5,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "护肤"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "护肤"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 9800,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 32778,
+        "engagementRate": 0.0095,
+        "completionRate": 0.0319,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 9,800 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 32,778 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "护肤",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "护肤",
+    "categoriesCsv": "美妆, 护肤保养, 美妆测评种草",
+    "contentThemesCsv": "",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"护肤\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 9,800 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 32,778 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 11.3,
+    "scorePerformance": 3.5,
+    "scoreFreshnessAndCoverage": 10
+  },
+  {
+    "type": "creator_match",
+    "runId": "5edfSX5wiRJhFfVlC",
+    "campaignName": "Skincare launch",
+    "scoringVersion": "campaign-fit-v1",
+    "collectedAt": "2026-11-23T13:06:05.867Z",
+    "xingtuCreatorId": "7605146401491664942",
+    "douyinUid": "2302803288270201",
+    "secUid": null,
+    "douyinId": null,
+    "nickname": "羊羊拆气垫y'ang",
+    "profileUrl": null,
+    "xingtuProfileUrl": null,
+    "matchedQueries": [
+      "防晒测评"
+    ],
+    "sourceEndpoints": [
+      "douyin/xingtu_v2/search_creator"
+    ],
+    "followerCount": 187968,
+    "categories": [
+      "时尚",
+      "穿搭"
+    ],
+    "contentThemes": [
+      "底妆测评",
+      "防水彩妆",
+      "眼线教程",
+      "箱包测评",
+      "防晒测评"
+    ],
+    "quotedPriceCny": 16800,
+    "quotedPriceTier": "21_60",
+    "priceStatus": "observed_quote",
+    "expectedPlays": 69335,
+    "expectedCpmCny": 242.3019,
+    "expectedCpeCny": null,
+    "derivedCpmCny": 242.3,
+    "engagementRate": 0.0414,
+    "completionRate": 0.0235,
+    "audienceDistribution": null,
+    "fitScore": 70,
+    "fitConfidence": "high",
+    "evidenceCoverage": 1,
+    "scoreBreakdown": {
+      "topic": 25.5,
+      "audience": 20,
+      "economics": 8.7,
+      "performance": 6.1,
+      "freshnessAndCoverage": 10
+    },
+    "scoreWeights": {
+      "preset": "engagement",
+      "applicableWeight": 100,
+      "weights": {
+        "topic": 30,
+        "audience": 25,
+        "economics": 15,
+        "performance": 20,
+        "freshnessAndCoverage": 10
+      }
+    },
+    "componentEvidence": {
+      "topic": {
+        "searchMode": "content",
+        "matchedQueries": [
+          "防晒测评"
+        ],
+        "keywordCoverage": 0.5,
+        "themeMatches": [
+          "防晒测评"
+        ]
+      },
+      "audience": {
+        "status": "provider_filter",
+        "source": "search_creator extra_filter",
+        "requiredShare": 0.6,
+        "segment": "female"
+      },
+      "economics": {
+        "basis": "quote_vs_budget",
+        "quotedPriceCny": 16800,
+        "budgetCnyPerCreator": 20000,
+        "tier": "21_60"
+      },
+      "performance": {
+        "expectedPlays": 69335,
+        "engagementRate": 0.0414,
+        "completionRate": 0.0235,
+        "note": "Xingtu estimates, not actual campaign views"
+      },
+      "freshnessAndCoverage": {
+        "evidenceCategoriesObserved": 4,
+        "of": 4
+      }
+    },
+    "matchReasons": [
+      "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label",
+      "AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned)",
+      "QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 16,800 ≤ CNY 20,000 limit",
+      "PERFORMANCE_ESTIMATE: expected views 69,335 from Xingtu; not actual campaign views"
+    ],
+    "missingData": [
+      "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles"
+    ],
+    "exclusionWarnings": [],
+    "foundOn": [
+      {
+        "keyword": "防晒测评",
+        "page": 1
+      }
+    ],
+    "dataSource": "TikHub / Douyin Xingtu V2",
+    "status": "qualified",
+    "observedAt": null,
+    "sourcePeriod": "180d content search",
+    "matchedQueriesCsv": "防晒测评",
+    "categoriesCsv": "时尚, 穿搭",
+    "contentThemesCsv": "底妆测评, 防水彩妆, 眼线教程, 箱包测评, 防晒测评",
+    "matchReasonsCsv": "CONTENT_THEME_MATCH: \"防晒测评\" matched a Xingtu content theme or category label | AUDIENCE_FILTER_MATCH: passed the provider's ≥60% female audience filter (share not returned) | QUOTE_WITHIN_BUDGET: 21–60s observed quote CNY 16,800 ≤ CNY 20,000 limit | PERFORMANCE_ESTIMATE: expected views 69,335 from Xingtu; not actual campaign views",
+    "missingDataCsv": "AUDIENCE_NOT_FETCHED: outside the top 5 creators selected for audience profiles",
+    "scoreTopic": 25.5,
+    "scoreAudience": 20,
+    "scoreEconomics": 8.7,
+    "scorePerformance": 6.1,
+    "scoreFreshnessAndCoverage": 10
+  }
+]
